@@ -1,0 +1,56 @@
+table{
+    align-self: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+tr{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+th{
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.BombMapContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    
+}
+
+.BombMapSubcontainer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.BombPopup{
+     position: fixed;
+    top: 35%;
+    left: 42.5%;
+    background-color: white;
+    padding-top: 0px;
+    padding-bottom: 25px;
+    padding-left: 90px;
+    padding-right: 90px;
+    z-index: 1000;
+    border-radius: 10px;
+}
+
+.Overlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,.6);
+    z-index: 1000;
+}

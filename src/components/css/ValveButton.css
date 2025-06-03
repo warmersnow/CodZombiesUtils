@@ -1,0 +1,30 @@
+.SelectedGreen{
+    color:lawngreen;
+    background: lawngreen;
+}
+.RegularGreen{
+    color:green;
+    background: green;
+}
+.SelectedPink{
+    color:magenta;
+    background: magenta;
+}
+.RegularPink{
+    color:purple;
+    background: purple;
+}
+
+.GorodValves{
+    text-align: center;
+}
+
+table{
+    align-self: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+th{
+    text-align: left;
+}
