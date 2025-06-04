@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CodZombiesUtils/static/css/main.14d5caef.css",
+    "main.js": "/CodZombiesUtils/static/js/main.4869a8db.js",
+    "static/js/453.d0c7f90d.chunk.js": "/CodZombiesUtils/static/js/453.d0c7f90d.chunk.js",
+    "static/media/SupplyRegular.png": "/CodZombiesUtils/static/media/SupplyRegular.38a81588b3ac94852b30.png",
+    "static/media/DragonRegular.png": "/CodZombiesUtils/static/media/DragonRegular.8854546dc0a1c80a9b1b.png",
+    "static/media/SupplySelected.png": "/CodZombiesUtils/static/media/SupplySelected.926e5bef11716f209855.png",
+    "static/media/DepartmentRegular.png": "/CodZombiesUtils/static/media/DepartmentRegular.ced1e73a678c3ae32a59.png",
+    "static/media/DragonSelected.png": "/CodZombiesUtils/static/media/DragonSelected.5a43953145fed79a5ed1.png",
+    "static/media/DepartmentSelected.png": "/CodZombiesUtils/static/media/DepartmentSelected.0d0d0dc6d48e7bfdc132.png",
+    "static/media/TankRegular.png": "/CodZombiesUtils/static/media/TankRegular.8597e60b7408166e2e69.png",
+    "static/media/logo.svg": "/CodZombiesUtils/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CodZombiesUtils/index.html",
+    "main.14d5caef.css.map": "/CodZombiesUtils/static/css/main.14d5caef.css.map",
+    "main.4869a8db.js.map": "/CodZombiesUtils/static/js/main.4869a8db.js.map",
+    "453.d0c7f90d.chunk.js.map": "/CodZombiesUtils/static/js/453.d0c7f90d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14d5caef.css",
+    "static/js/main.4869a8db.js"
+  ]
+}
